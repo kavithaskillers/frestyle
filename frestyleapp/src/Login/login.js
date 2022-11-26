@@ -18,7 +18,7 @@ function LoginModule() {
 
     return(
         <>
-        <h1>Login Module</h1>
+        <h1>Login </h1>
         <Box sx={{ flexGrow: 1 }}>
       <Grid container spacing={2}>
         <Grid item xs={4}>
